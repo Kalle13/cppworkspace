@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1469683682 source:c:\users\kalle13\cppworkspace\cppplayground\linkedlists\cpplinkedlists\linkedlists.cpp
+	<stdio.h>
+	<iostream>
+

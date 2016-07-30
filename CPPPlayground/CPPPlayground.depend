@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1469588194 source:c:\users\kalle13\cppworkspace\cppplayground\playground.cpp
+	"playground.h"
+	<stdio.h>
+	<iostream>
+
+1467869223 c:\users\kalle13\cppworkspace\cppplayground\playground.h
+	<iostream>
+	<stdio.h>
+	<string>
+	<Windows.h>
+
